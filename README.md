@@ -6,7 +6,7 @@ Dokumentasi tugas besar mata kuliah Pemrograman Berorientasi Objek kelompok 4 ke
 3. Alif Ihsan (103012330079)
 4. Arif Rahmatiana
 5. ⁠Dhafin Ghiffary (103012300348)
-6. Syauqi Nurfikri Rahman
+6. Syauqi Nurfikri Rahman (103012300299)
 
 # Judul Proyek
 E-TokoBuku
